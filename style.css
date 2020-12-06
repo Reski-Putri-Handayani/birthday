@@ -13,9 +13,9 @@ body {
 }
 
 
-@media only screen and (max-height: 500px) {
+@media only screen and (max-height: 600px) {
   .swiper-container {
-    margin-top: 3%;
+    margin-top: 6vh;
   }
 }
 
