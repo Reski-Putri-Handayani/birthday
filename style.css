@@ -12,6 +12,12 @@ body {
   margin-top: 3%;
 }
 
+@media only screen and (min-width: 700px) {
+  .swiper-container {
+    margin-top: 8%;
+  }
+}
+
 .swiper-slide {
   background-position: center;
   background-size: cover;
