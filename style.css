@@ -13,6 +13,12 @@ body {
 }
 
 
+@media only screen and (max-height: 600px) {
+  .swiper-container {
+    margin-top: 10vh;
+  }
+}
+
 .swiper-slide {
   background-position: center;
   background-size: cover;
